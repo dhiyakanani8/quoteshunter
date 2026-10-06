@@ -1,0 +1,6 @@
+{
+  "name": "Quoteshunter - Curated Feeds & Quotes Explorer",
+  "description": "Explore dynamic categories and curated message feeds from Google Sheets with quote poster generator, pagination, search, and media preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
